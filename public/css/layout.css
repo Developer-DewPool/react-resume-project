@@ -301,10 +301,10 @@ ul#nav li.current a { color: #fe6928; }
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
-   letter-spacing: 2px;
+   letter-spacing: 0px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -42px;
 }
 .bar-expand {
    position: absolute;
